@@ -1,42 +1,23 @@
 
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en-US" itemscope="itemscope" itemtype="http://schema.org/WebPage" >
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://demo.accesspressthemes.com/storevilla/xmlrpc.php">
 
-    <title>ShopIsle PRO -</title>
-
-    <!-- Google Tag Manager for WordPress by gtm4wp.com -->
-    <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
-        var gtm4wp_datalayer_name = "dataLayer";
-        var dataLayer = dataLayer || [];
-        //]]>
-    </script>
-    <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
-    <!-- This site is optimized with the Yoast SEO plugin v12.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
-    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="ShopIsle PRO -" />
-    <meta property="og:site_name" content="ShopIsle PRO" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="ShopIsle PRO -" />
-    <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://demo.themeisle.com/shop-isle-pro/#website","url":"https://demo.themeisle.com/shop-isle-pro/","name":"ShopIsle PRO","potentialAction":{"@type":"SearchAction","target":"https://demo.themeisle.com/shop-isle-pro/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://demo.themeisle.com/shop-isle-pro/#webpage","url":"https://demo.themeisle.com/shop-isle-pro/","inLanguage":"en-US","name":"ShopIsle PRO -","isPartOf":{"@id":"https://demo.themeisle.com/shop-isle-pro/#website"}}]}</script>
-    <!-- / Yoast SEO plugin. -->
-
-    <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel='dns-prefetch' href='//mllj2j8xvfl0.i.optimole.com' />
-    <link rel='preconnect' href='https://mllj2j8xvfl0.i.optimole.com' />
-    <link rel="alternate" type="application/rss+xml" title="ShopIsle PRO &raquo; Feed" href="https://demo.themeisle.com/shop-isle-pro/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="ShopIsle PRO &raquo; Comments Feed" href="https://demo.themeisle.com/shop-isle-pro/comments/feed/" />
-    <script type="text/javascript">
-        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s20206.pcdn.co\/shop-isle-pro\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
-        /*! This file is auto-generated */
-        !function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
-    </script>
-    <style type="text/css">
+	<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+	<title>Best Free WordPress WooCommerce Theme &#8211; Storevilla : Features Demo &#8211; A free theme by AccessPressThemes</title>
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+	<link rel='dns-prefetch' href='//s.w.org' />
+	<link rel="alternate" type="application/rss+xml" title="Best Free WordPress WooCommerce Theme - Storevilla : Features Demo &raquo; Feed" href="https://demo.accesspressthemes.com/storevilla/feed/" />
+	<link rel="alternate" type="application/rss+xml" title="Best Free WordPress WooCommerce Theme - Storevilla : Features Demo &raquo; Comments Feed" href="https://demo.accesspressthemes.com/storevilla/comments/feed/" />
+	<script type="text/javascript">
+        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demo.accesspressthemes.com\/storevilla\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+        !function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+	</script>
+	<style type="text/css">
         img.wp-smiley,
         img.emoji {
             display: inline !important;
@@ -49,504 +30,232 @@
             background: none !important;
             padding: 0 !important;
         }
-    </style>
-    <link rel='stylesheet' id='wp-block-library-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
-    <link rel='stylesheet' id='wc-block-style-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/plugins/woocommerce/assets/css/blocks/style.css?ver=3.6.5' type='text/css' media='all' />
-    <style id='woocommerce-inline-inline-css' type='text/css'>
+	</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://demo.accesspressthemes.com/storevilla/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://demo.accesspressthemes.com/storevilla/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=2.7.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='wc-block-style-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.7.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='jquery-selectBox-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='yith-wcwl-font-awesome-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='yith-wcwl-main-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=3.0.12' type='text/css' media='all' />
+	<link rel='stylesheet' id='apss-font-awesome-five-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/accesspress-social-share/css/fontawesome-all.css?ver=4.5.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='apss-frontend-css-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/accesspress-social-share/css/frontend.css?ver=4.5.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='apss-font-opensans-css'  href='//fonts.googleapis.com/css?family=Open+Sans&#038;ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='woocommerce-layout-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.3.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.3.3' type='text/css' media='only screen and (max-width: 768px)' />
+	<link rel='stylesheet' id='woocommerce-general-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.3.3' type='text/css' media='all' />
+	<style id='woocommerce-inline-inline-css' type='text/css'>
         .woocommerce form .form-row .required { visibility: visible; }
-    </style>
-    <link rel='stylesheet' id='yith-quick-view-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/plugins/yith-woocommerce-quick-view/assets/css/yith-quick-view.css?ver=5.4.2' type='text/css' media='all' />
-    <style id='yith-quick-view-inline-css' type='text/css'>
+	</style>
+	<link rel='stylesheet' id='ap-demos-buttons-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/ap-demos-buttons/assets/style.css?ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='jquery-colorbox-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/yith-woocommerce-compare/assets/css/colorbox.css?ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='yith-woocompare-widget-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/yith-woocommerce-compare/assets/css/widget.css?ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='yith-quick-view-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/yith-woocommerce-quick-view/assets/css/yith-quick-view.css?ver=1.4.2' type='text/css' media='all' />
+	<style id='yith-quick-view-inline-css' type='text/css'>
 
         #yith-quick-view-modal .yith-wcqv-main{background:#ffffff;}
         #yith-quick-view-close{color:#cdcdcd;}
         #yith-quick-view-close:hover{color:#ff0000;}
-    </style>
-    <link rel='stylesheet' id='bootstrap-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/themes/shop-isle-pro/assets/bootstrap/css/bootstrap.min.css?ver=20120208' type='text/css' media='all' />
-    <link rel='stylesheet' id='magnific-popup-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/themes/shop-isle-pro/assets/css/vendor/magnific-popup.min.css?ver=20120208' type='text/css' media='all' />
-    <link rel='stylesheet' id='flexslider-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/themes/shop-isle-pro/assets/css/vendor/flexslider.min.css?ver=20120208' type='text/css' media='all' />
-    <link rel='stylesheet' id='owl-carousel-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/themes/shop-isle-pro/assets/css/vendor/owl.carousel.min.css?ver=2.1.7' type='text/css' media='all' />
-    <link rel='stylesheet' id='shop-isle-animate-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/themes/shop-isle-pro/assets/css/vendor/animate.min.css?ver=20120208' type='text/css' media='all' />
-    <link rel='stylesheet' id='shop-isle-main-style-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/themes/shop-isle-pro/assets/css/style.min.css?ver=2.2.56' type='text/css' media='all' />
-    <link rel='stylesheet' id='shop-isle-style-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/themes/shop-isle-pro/style.css?ver=2.2.56' type='text/css' media='all' />
-    <style id='optm_lazyload_noscript_style-inline-css' type='text/css'>
-        .optimole-no-script img[data-opt-src] { display: none !important; }
-        html.optimole_has_js .elementor-section[data-settings*="background_background"]:not(.optml-bg-lazyloaded),
-        html.optimole_has_js .elementor-section > .elementor-background-overlay:not(.optml-bg-lazyloaded),
-        html.optimole_has_js .wp-block-cover[style*="background-image"]:not(.optml-bg-lazyloaded) { background-image: none !important; }
-    </style>
-    <link rel='stylesheet' id='shop-isle-woocommerce-style1-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/themes/shop-isle-pro/inc/woocommerce/css/woocommerce.css?ver=11' type='text/css' media='all' />
-    <link rel='stylesheet' id='pirate-switch-css'  href='https://s20206.pcdn.co/shop-isle-pro/wp-content/plugins/pirate-switch/public/css/pirate-switch-public.css?ver=1.0.11' type='text/css' media='all' />
-    <script type='text/javascript' src='https://s20206.pcdn.co/shop-isle-pro/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-    <script type='text/javascript' src='https://s20206.pcdn.co/shop-isle-pro/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var pf = {"spam":{"label":"I'm human!","value":"881b0a1787"}};
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='https://s20206.pcdn.co/shop-isle-pro/wp-content/plugins/pirate-forms/public/js/custom-spam.js?ver=5.4.2'></script>
-    <script type='text/javascript' src='https://s20206.pcdn.co/shop-isle-pro/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.2'></script>
-    <script type='text/javascript' src='https://s20206.pcdn.co/shop-isle-pro/wp-content/plugins/pirate-switch/public/js/pirate-switch-public.js?ver=1.0.11'></script>
-    <link rel='https://api.w.org/' href='https://demo.themeisle.com/shop-isle-pro/wp-json/' />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.themeisle.com/shop-isle-pro/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s20206.pcdn.co/shop-isle-pro/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 5.4.2" />
-    <meta name="generator" content="WooCommerce 3.6.5" />
-    <link rel="canonical" href="http://themeisle.com/themes/shop-isle-pro/" /><!-- Enter your scripts here -->
-    <!-- Google Tag Manager for WordPress by gtm4wp.com -->
-    <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[//]]>
-    </script>
-    <!-- End Google Tag Manager for WordPress by gtm4wp.com --><style id="shop_isle_customizr_pallete" type="text/css">.module.module-video { padding: 250px 0px; }</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-    <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	</style>
+	<link rel='stylesheet' id='woocommerce_prettyPhoto_css-css'  href='//demo.accesspressthemes.com/storevilla/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C400%2C600%2C600%2C700%7CLato%3A400%2C300%2C300%2C400%2C700&#038;ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='font-awesome-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/themes/storevilla/assets/fontawesome/css/font-awesome.css?ver=5.5.3' type='text/css' media='all' />
+	<style id='font-awesome-inline-css' type='text/css'>
+        [data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+	</style>
+	<link rel='stylesheet' id='lightslider-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/themes/storevilla/assets/css/lightslider.css?ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='linearicons-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/themes/storevilla/assets/linearicons/style.css?ver=5.5.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='storevilla-style-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/themes/storevilla/style.css?ver=5.5.3' type='text/css' media='all' />
+	<style id='storevilla-style-inline-css' type='text/css'>
 
-    <div id="ps-main-box" class="ps-container">
-
-        <div id="ps-open-icon" class="ps-open">
-            <div class="icon"></div>
-        </div>
-
-        <div class="ps-content-wrapper">
-
-            <div id="ps-content" class="ps-content">
-
-                <div class="ps-large-box ps-button-cta"><a href="https://themeisle.com/themes/shop-isle-pro/" class="ps-buy-button">Download ShopIsle PRO</a></div><!-- /.ps-button-cta --><div class="ps-large-box ps-colors"><div class="ps-ribbon ps-no-background"><p class="ps-title">COLORS </p><h5 class="ps-text">Customize the theme to totally fit your business</h5></div><ul class="ps-color-boxes"><li><div class="ps-color-box" style="background-color:#db9e36"></div><input type="hidden" value=".slides li:nth-child(1) {
-	background-image: url(&#39;https:&#x2F;&#x2F;farm1.staticflickr.com&#x2F;638&#x2F;23284707505_835100824f_h.jpg&#39;) !important;
-}
-.slides li:nth-child(2) {
-	background-image: url(&#39;https:&#x2F;&#x2F;farm6.staticflickr.com&#x2F;5685&#x2F;21918341563_bc0cfd4983_h.jpg&#39;) !important;
-}
-.slides li:nth-child(3) {
-	background-image: url(&#39;https:&#x2F;&#x2F;farm1.staticflickr.com&#x2F;585&#x2F;22046653954_aedf6c6fd7_h.jpg&#39;) !important;
-}
-.navbar-custom,
-			.header-shopping-cart,
-			.navbar-custom .sub-menu,
-			.navbar-custom .children,
-			.onsale,
-		    .header-search-input{
-				background: rgba(219,158,54,.9);
-			}
-			.shop_isle_footer_sidebar,
-			 footer.footer {
-				background-color: rgb(219, 158, 54) !important;
-			}
-			.page .navbar-custom {
-				background: rgba(219,158,54,.9) !important;
-			}
-
-			.module-title,
-			.widget .widget-title,
-			 .post-title a,
-			 .single-product .product_title,
-			 .related.products h2,
-			 .upsells.products h2 {
-				color: rgb(16, 91, 99);
-			}
-
-			body,
-			a,
-			.main,
-			.module-subtitle {
-				color: rgb(16, 91, 99);
-			}
-			.widget_calendar thead th {
-				background: rgb(16, 91, 99);
-			}
-
-			.product .product-button-wrap .add_to_cart_button,
-			ul.products li.product .product-button-wrap .button.product_type_simple,
-			.shop-item .product-button-wrap .add_to_cart_button,
-			.btn.btn-b,
-			#comments input[type=&quot;submit&quot;],
-			button[type=&quot;submit&quot;],
-			#comments input[type=&quot;submit&quot;]:hover,
-			button[type=&quot;submit&quot;]:hover,
-			#payment .place-order .button,
-			table.cart td.actions input[name=&quot;update_cart&quot;],
-			.wc-proceed-to-checkout .button.checkout-button:hover,
-			.wc-proceed-to-checkout .button.checkout-button,
-		    .header-shopping-cart .widget_shopping_cart p.buttons a,
-		    .shop-item .product-button-wrap .product_type_simple,
-		    ul.products li.product .product-button-wrap .product_type_variable,
-	        ul.products li.product .product-button-wrap .button.product_type_grouped,
-	        .shop-item .product-button-wrap .button.product_type_grouped,
-	        .shop-item .product-button-wrap .button.product_type_variable,
-	        ul.products li.product .product-button-wrap .product_type_variable,
-	        .widget input[type=submit],
-			.widget button[type=submit],
-			.widget_shopping_cart_content .buttons a,
-			.widget_price_filter .ui-slider .ui-slider-handle {
-				background: rgb(189, 73, 50);
-			}
-			.product .product-button-wrap .add_to_cart_button:hover,
-			ul.products li.product .product-button-wrap .button.product_type_simple:hover,
-			.shop-item .product-button-wrap .add_to_cart_button:hover,
-			.btn.btn-b:hover,
-		    .header-shopping-cart .widget_shopping_cart p.buttons a:hover,
-		    ul.products li.product .product-button-wrap .product_type_variable:hover.
-            ul.products li.product .product-button-wrap .button.product_type_grouped:hover,
-	        .shop-item .product-button-wrap .button.product_type_grouped:hover,
-	        .shop-item .product-button-wrap .button.product_type_variable:hover,
-	        .widget input[type=submit]:hover,
-			.widget button[type=submit]:hover,
-			.widget_shopping_cart_content .buttons a:hover,
-			.widget.woocommerce.widget_shopping_cart_content .button a:hover {
-			    background: rgb(189, 73, 50);
-			    opacity: 0.8;
-			}
-			a:hover {
-				color: rgb(189, 73, 50);
-			}
-			#comments input[type=&quot;submit&quot;]:hover,
-			button[type=&quot;submit&quot;]:hover {
-				opacity: 0.8;
-			}
-			.single-product div.product form.cart .button:hover,
-			#payment .place-order .button:hover,
-			#payment .place-order .button:focus,
-			.wc-proceed-to-checkout .button.checkout-button:hover,
-			table.cart td.actions input[name=&quot;update_cart&quot;]:hover {
-				background: rgb(189, 73, 50);
-				opacity: 0.8;
-			}
-
-			body,
-			.main,
-			.panel,
-			.woocommerce-tabs ul.tabs li.active a {
-				background-color: rgb(255, 255, 245);
-			}
-
-			footer.footer,
-			footer.footer a,
-			.bg-dark a,
-		    .header-shopping-cart .widget_shopping_cart p.total,
-	        .header-shopping-cart .mini_cart_item .quantity, .header-shopping-cart .mini_cart_item .quantity span,
-            .header-shopping-cart .widget_shopping_cart .product_list_widget li a.remove,
-            .widget_shopping_cart .product_list_widget li{
-				color: rgba( 255, 255, 255, 0.6 );
-			}
-			footer.footer a:hover,
-			.bg-dark a:hover,
-			.header-shopping-cart .mini_cart_item a:hover,
-			.header-shopping-cart .widget_shopping_cart .product_list_widget li a.remove:hover {
-				color: #FFF;
-			}
-			footer.footer .divider-d {
-				border-top: 1px solid rgba(32, 32, 32, 0.5);
-			}
-			.navbar-custom .sub-menu &gt; li &gt; a,
-			.navbar-custom .children &gt; li &gt; a,
-			 .header-shopping-cart .mini_cart_item a {
-				color: rgba(255, 255, 255, .7);
-			}" class="pirate_switch_css_style"></li><li><div class="ps-color-box" style="background-color:#2c3e50"></div><input type="hidden" value=".slides li:nth-child(1) {
-	background-image: url(&#39;https:&#x2F;&#x2F;farm1.staticflickr.com&#x2F;634&#x2F;22657552743_c3cce91312_h.jpg&#39;) !important;
-}
-.slides li:nth-child(2) {
-	background-image: url(&#39;https:&#x2F;&#x2F;farm6.staticflickr.com&#x2F;5802&#x2F;23284688165_b66c41cf58_h.jpg&#39;) !important;
-}
-.slides li:nth-child(3) {
-	background-image: url(&#39;https:&#x2F;&#x2F;farm6.staticflickr.com&#x2F;5773&#x2F;22916762659_470b448e73_h.jpg&#39;) !important;
-}
-
-.navbar-custom,
-			.header-shopping-cart,
-			.navbar-custom .sub-menu,
-			.navbar-custom .children,
-			.onsale,
-		    .header-search-input{
-				background: rgba(44,62,80,.9);
-			}
-			.shop_isle_footer_sidebar,
-			 footer.footer {
-				background-color: rgb(44, 62, 80) !important;
-			}
-			.page .navbar-custom {
-				background: rgba(44,62,80,.9) !important;
-			}
-
-			.module-title,
-			.widget .widget-title,
-			 .post-title a,
-			 .single-product .product_title,
-			 .related.products h2,
-			 .upsells.products h2 {
-				color: rgb(109, 188, 219);
-			}
-
-			body,
-			a,
-			.main,
-			.module-subtitle {
-				color: rgb(44, 62, 80);
-			}
-			.widget_calendar thead th {
-				background: rgb(44, 62, 80);
-			}
-
-			.product .product-button-wrap .add_to_cart_button,
-			ul.products li.product .product-button-wrap .button.product_type_simple,
-			.shop-item .product-button-wrap .add_to_cart_button,
-			.btn.btn-b,
-			#comments input[type=&quot;submit&quot;],
-			button[type=&quot;submit&quot;],
-			#comments input[type=&quot;submit&quot;]:hover,
-			button[type=&quot;submit&quot;]:hover,
-			#payment .place-order .button,
-			table.cart td.actions input[name=&quot;update_cart&quot;],
-			.wc-proceed-to-checkout .button.checkout-button:hover,
-			.wc-proceed-to-checkout .button.checkout-button,
-		    .header-shopping-cart .widget_shopping_cart p.buttons a,
-		    .shop-item .product-button-wrap .product_type_simple,
-		    ul.products li.product .product-button-wrap .product_type_variable,
-	        ul.products li.product .product-button-wrap .button.product_type_grouped,
-	        .shop-item .product-button-wrap .button.product_type_grouped,
-	        .shop-item .product-button-wrap .button.product_type_variable,
-	        ul.products li.product .product-button-wrap .product_type_variable,
-	        .widget input[type=submit],
-			.widget button[type=submit],
-			.widget_shopping_cart_content .buttons a,
-			.widget_price_filter .ui-slider .ui-slider-handle {
-				background: rgb(252, 67, 73);
-			}
-			.product .product-button-wrap .add_to_cart_button:hover,
-			ul.products li.product .product-button-wrap .button.product_type_simple:hover,
-			.shop-item .product-button-wrap .add_to_cart_button:hover,
-			.btn.btn-b:hover,
-		    .header-shopping-cart .widget_shopping_cart p.buttons a:hover,
-		    ul.products li.product .product-button-wrap .product_type_variable:hover.
-            ul.products li.product .product-button-wrap .button.product_type_grouped:hover,
-	        .shop-item .product-button-wrap .button.product_type_grouped:hover,
-	        .shop-item .product-button-wrap .button.product_type_variable:hover,
-	        .widget input[type=submit]:hover,
-			.widget button[type=submit]:hover,
-			.widget_shopping_cart_content .buttons a:hover,
-			.widget.woocommerce.widget_shopping_cart_content .button a:hover {
-			    background: rgb(252, 67, 73);
-			    opacity: 0.8;
-			}
-			a:hover {
-				color: rgb(252, 67, 73);
-			}
-			#comments input[type=&quot;submit&quot;]:hover,
-			button[type=&quot;submit&quot;]:hover {
-				opacity: 0.8;
-			}
-			.single-product div.product form.cart .button:hover,
-			#payment .place-order .button:hover,
-			#payment .place-order .button:focus,
-			.wc-proceed-to-checkout .button.checkout-button:hover,
-			table.cart td.actions input[name=&quot;update_cart&quot;]:hover {
-				background: rgb(252, 67, 73);
-				opacity: 0.8;
-			}
-
-			body,
-			.main,
-			.panel,
-			.woocommerce-tabs ul.tabs li.active a {
-				background-color: rgb(255, 255, 255);
-			}
-
-			footer.footer,
-			footer.footer a,
-			.bg-dark a,
-		    .header-shopping-cart .widget_shopping_cart p.total,
-	        .header-shopping-cart .mini_cart_item .quantity, .header-shopping-cart .mini_cart_item .quantity span,
-            .header-shopping-cart .widget_shopping_cart .product_list_widget li a.remove,
-            .widget_shopping_cart .product_list_widget li{
-				color: rgba( 255, 255, 255, 0.6 );
-			}
-			footer.footer a:hover,
-			.bg-dark a:hover,
-			.header-shopping-cart .mini_cart_item a:hover,
-			.header-shopping-cart .widget_shopping_cart .product_list_widget li a.remove:hover {
-				color: #FFF;
-			}
-			footer.footer .divider-d {
-				border-top: 1px solid rgba(32, 32, 32, 0.5);
-			}
-			.navbar-custom .sub-menu &gt; li &gt; a,
-			.navbar-custom .children &gt; li &gt; a,
-			 .header-shopping-cart .mini_cart_item a {
-				color: rgba(255, 255, 255, .7);
-			}
-		.module.module-video { padding: 250px 0px; }" class="pirate_switch_css_style"></li><li><div class="ps-color-box" style="background-color:#f2385a"></div><input type="hidden" value=".navbar-custom,
-			.header-shopping-cart,
-			.navbar-custom .sub-menu,
-			.navbar-custom .children,
-			.onsale,
-		    .header-search-input{
-				background: rgba(242,56,90,.9);
-			}
-			.shop_isle_footer_sidebar,
-			 footer.footer {
-				background-color: rgb(242, 56, 90) !important;
-			}
-			.page .navbar-custom {
-				background: rgba(242,56,90,.9) !important;
-			}
-
-			.module-title,
-			.widget .widget-title,
-			 .post-title a,
-			 .single-product .product_title,
-			 .related.products h2,
-			 .upsells.products h2 {
-				color: rgb(49, 101, 107);
-			}
-
-			body,
-			a,
-			.main,
-			.module-subtitle {
-				color: rgb(41, 71, 74);
-			}
-			.widget_calendar thead th {
-				background: rgb(41, 71, 74);
-			}
-
-			.product .product-button-wrap .add_to_cart_button,
-			ul.products li.product .product-button-wrap .button.product_type_simple,
-			.shop-item .product-button-wrap .add_to_cart_button,
-			.btn.btn-b,
-			#comments input[type=&quot;submit&quot;],
-			button[type=&quot;submit&quot;],
-			#comments input[type=&quot;submit&quot;]:hover,
-			button[type=&quot;submit&quot;]:hover,
-			#payment .place-order .button,
-			table.cart td.actions input[name=&quot;update_cart&quot;],
-			.wc-proceed-to-checkout .button.checkout-button:hover,
-			.wc-proceed-to-checkout .button.checkout-button,
-		    .header-shopping-cart .widget_shopping_cart p.buttons a,
-		    .shop-item .product-button-wrap .product_type_simple,
-		    ul.products li.product .product-button-wrap .product_type_variable,
-	        ul.products li.product .product-button-wrap .button.product_type_grouped,
-	        .shop-item .product-button-wrap .button.product_type_grouped,
-	        .shop-item .product-button-wrap .button.product_type_variable,
-	        ul.products li.product .product-button-wrap .product_type_variable,
-	        .widget input[type=submit],
-			.widget button[type=submit],
-			.widget_shopping_cart_content .buttons a,
-			.widget_price_filter .ui-slider .ui-slider-handle {
-				background: rgb(74, 217, 217);
-			}
-			.product .product-button-wrap .add_to_cart_button:hover,
-			ul.products li.product .product-button-wrap .button.product_type_simple:hover,
-			.shop-item .product-button-wrap .add_to_cart_button:hover,
-			.btn.btn-b:hover,
-		    .header-shopping-cart .widget_shopping_cart p.buttons a:hover,
-		    ul.products li.product .product-button-wrap .product_type_variable:hover,
-            ul.products li.product .product-button-wrap .button.product_type_grouped:hover,
-	        .shop-item .product-button-wrap .button.product_type_grouped:hover,
-	        .shop-item .product-button-wrap .button.product_type_variable:hover,
-	        .widget input[type=submit]:hover,
-			.widget button[type=submit]:hover,
-			.widget_shopping_cart_content .buttons a:hover,
-			.widget.woocommerce.widget_shopping_cart_content .button a:hover {
-			    background: rgb(74, 217, 217);
-			    opacity: 0.8;
-			}
-			a:hover {
-				color: rgb(74, 217, 217);
-			}
-			#comments input[type=&quot;submit&quot;]:hover,
-			button[type=&quot;submit&quot;]:hover {
-				opacity: 0.8;
-			}
-			.single-product div.product form.cart .button:hover,
-			#payment .place-order .button:hover,
-			#payment .place-order .button:focus,
-			.wc-proceed-to-checkout .button.checkout-button:hover,
-			table.cart td.actions input[name=&quot;update_cart&quot;]:hover {
-				background: rgb(74, 217, 217);
-				opacity: 0.8;
-			}
-
-			body,
-			.main,
-			.panel,
-			.woocommerce-tabs ul.tabs li.active a {
-				background-color: rgb(250, 255, 244);
-			}
-
-			footer.footer,
-			footer.footer a,
-			.bg-dark a,
-		    .header-shopping-cart .widget_shopping_cart p.total,
-	        .header-shopping-cart .mini_cart_item .quantity, .header-shopping-cart .mini_cart_item .quantity span,
-            .header-shopping-cart .widget_shopping_cart .product_list_widget li a.remove,
-            .widget_shopping_cart .product_list_widget li{
-				color: rgba( 255, 255, 255, 0.6 );
-			}
-			footer.footer a:hover,
-			.bg-dark a:hover,
-			.header-shopping-cart .mini_cart_item a:hover,
-			.header-shopping-cart .widget_shopping_cart .product_list_widget li a.remove:hover {
-				color: #FFF;
-			}
-			footer.footer .divider-d {
-				border-top: 1px solid rgba(32, 32, 32, 0.5);
-			}
-			.navbar-custom .sub-menu &gt; li &gt; a,
-			.navbar-custom .children &gt; li &gt; a,
-			 .header-shopping-cart .mini_cart_item a {
-				color: rgba(255, 255, 255, .7);
-			}
-		.module.module-video { padding: 250px 0px; }
-.slides li:nth-child(1) {
-	background-image: url(&#39;https:&#x2F;&#x2F;farm6.staticflickr.com&#x2F;5500&#x2F;31638273056_ff12082648_h.jpg&#39;) !important;
-}
-.slides li:nth-child(2) {
-	background-image: url(&#39;https:&#x2F;&#x2F;farm1.staticflickr.com&#x2F;300&#x2F;31638272726_2155627d79_h.jpg&#39;) !important;
-}
-.slides li:nth-child(3) {
-	background-image: url(&#39;https:&#x2F;&#x2F;farm1.staticflickr.com&#x2F;332&#x2F;31638270656_5fff1b5455_h.jpg&#39;) !important;
-}" class="pirate_switch_css_style"></li><li><div class="ps-color-box" style="background-color:#333333"></div><input type="hidden" value="&#x2F;* Default *&#x2F;" class="pirate_switch_css_style"></li></ul><div class="ps-clearfix"></div></div><!-- END .ps-colors --><div class="ps-large-box ps-child-themes"><div class="ps-ribbon ps-no-background"><p class="ps-title">FROM CLIENTS</p><h5 class="ps-text">See what else can be done with this theme</h5></div><a class="ps-child-theme-button" href="https://kinza-paris.fr/" target="_blank"><div class="ps-child-themes-overlay"></div><img src=" https://mllj2j8xvfl0.i.optimole.com/YyZCPVs-rnu_PSx6/w:auto/h:auto/q:90/https://s20206.pcdn.co/wp-content/uploads/sites/88/2017/11/pro_ps2.jpg "/></a><a class="ps-child-theme-button" href="https://coenenschoenmode.nl/" target="_blank"><div class="ps-child-themes-overlay"></div><img src=" https://mllj2j8xvfl0.i.optimole.com/YyZCPVs-dTRYRolw/w:auto/h:auto/q:90/https://s20206.pcdn.co/wp-content/uploads/sites/88/2017/11/pro_ps4.jpg "/></a><a class="ps-child-theme-button" href="https://verticalseptember.com/" target="_blank"><div class="ps-child-themes-overlay"></div><img src=" https://mllj2j8xvfl0.i.optimole.com/YyZCPVs-YC2fejfG/w:auto/h:auto/q:90/https://s20206.pcdn.co/wp-content/uploads/sites/88/2017/11/pro_ps5.jpg "/></a><a class="ps-child-theme-button" href="https://www.theprettypropshop.co.nz/" target="_blank"><div class="ps-child-themes-overlay"></div><img src=" https://mllj2j8xvfl0.i.optimole.com/YyZCPVs-fepnNfPj/w:auto/h:auto/q:90/https://s20206.pcdn.co/wp-content/uploads/sites/88/2017/12/shop-isle-pro-showcase5-300x244.png "/></a><a class="ps-child-theme-button" href="avtmbijouterienomade.com" target="_blank"><div class="ps-child-themes-overlay"></div><img src=" https://mllj2j8xvfl0.i.optimole.com/YyZCPVs-8UAW9_ze/w:auto/h:auto/q:90/https://s20206.pcdn.co/wp-content/uploads/sites/88/2019/09/avtmbijouterienomade.jpg "/></a><a class="ps-child-theme-button" href="https://www.bartbaren.com" target="_blank"><div class="ps-child-themes-overlay"></div><img src=" https://mllj2j8xvfl0.i.optimole.com/YyZCPVs-QTrjl9bN/w:auto/h:auto/q:90/https://s20206.pcdn.co/wp-content/uploads/sites/88/2019/09/bartbaren.jpg "/></a><div class="ps-clearfix"></div></div><!-- END .ps-child-themes --><div class="ps-ending-tag-wrapper"><a class="ps-ending-tag" target="_blank" href="https://themeisle.com/contact">Contact us for help</a></div>                </div>
-        </div>
-    </div>
-    <meta name="generator" content="Optimole 2.3.1">
-    <style type="text/css">
-        img[data-opt-src]:not([data-opt-lazy-loaded]) {
-            transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
-            -webkit-transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
-            -moz-transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
-            -o-transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
+        .main-navigation,
+        .header-wrap .search-cart-wrap .advance-search .sv_search_form #searchsubmit,
+        .top-header-regin ul li span.cart-count,
+        .main-navigation ul ul,
+        .widget_storevilla_cat_widget_area .category-slider li .item-img a:hover .sv_category_count,
+        .product-button-wrap a.button,
+        .product-button-wrap a.added_to_cart,
+        .widget_storevilla_promo_pages_area .promo-area a:hover button,
+        .widget_storevilla_blog_widget_area .blog-preview a.blog-preview-btn:hover,
+        .widget_storevilla_blog_widget_area .large-blog-preview a.blog-preview-btn:hover,
+        .lSSlideOuter .lSPager.lSpg > li:hover a,
+        .lSSlideOuter .lSPager.lSpg > li.active a,
+        .widget_storevilla_contact_info_area ul li span:hover,
+        .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+        .yith-woocompare-widget a.clear-all:hover,
+        .yith-woocompare-widget .compare.button,
+        .widget_search form input[type=submit],
+        .widget_product_search form input[type=submit],
+        .no-results.not-found .search-form .search-submit,
+        .woocommerce nav.woocommerce-pagination ul li a:focus,
+        .woocommerce nav.woocommerce-pagination ul li a:hover,
+        .woocommerce nav.woocommerce-pagination ul li span.current,
+        .item-img .new-label.new-top-left,
+        .widget_storevilla_cat_with_product_widget_area .block-title-desc a.view-bnt:hover,
+        .site-header-cart .woocommerce a.button.wc-forward,
+        .woocommerce #respond input#submit,
+        .woocommerce a.button,
+        .woocommerce button.button,
+        .woocommerce input.button,
+        .header-wrap .search-cart-wrap .advance-search .sv_search_form #searchsubmit:hover,
+        .normal-search .search-form .search-submit:hover,
+        .quantity button,
+        .woocommerce #respond input#submit.alt.disabled,
+        .woocommerce #respond input#submit.alt.disabled:hover,
+        .woocommerce #respond input#submit.alt:disabled,
+        .woocommerce #respond input#submit.alt:disabled:hover,
+        .woocommerce #respond input#submit.alt[disabled]:disabled,
+        .woocommerce #respond input#submit.alt[disabled]:disabled:hover,
+        .woocommerce a.button.alt.disabled,
+        .woocommerce a.button.alt.disabled:hover,
+        .woocommerce a.button.alt:disabled,
+        .woocommerce a.button.alt:disabled:hover,
+        .woocommerce a.button.alt[disabled]:disabled,
+        .woocommerce a.button.alt[disabled]:disabled:hover,
+        .woocommerce button.button.alt.disabled,
+        .woocommerce button.button.alt.disabled:hover,
+        .woocommerce button.button.alt:disabled,
+        .woocommerce button.button.alt:disabled:hover,
+        .woocommerce button.button.alt[disabled]:disabled,
+        .woocommerce button.button.alt[disabled]:disabled:hover,
+        .woocommerce input.button.alt.disabled,
+        .woocommerce input.button.alt.disabled:hover,
+        .woocommerce input.button.alt:disabled,
+        .woocommerce input.button.alt:disabled:hover,
+        .woocommerce input.button.alt[disabled]:disabled,
+        .woocommerce input.button.alt[disabled]:disabled:hover,
+        .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+        .woocommerce div.product .woocommerce-tabs ul.tabs li:hover,
+        .woocommerce #respond input#submit.alt,
+        .woocommerce a.button.alt,
+        .woocommerce button.button.alt,
+        .woocommerce input.button.alt,
+        .main-navigation ul ul li.current-menu-item a,
+        .main-navigation ul ul li a:hover,
+        .main-navigation ul ul li.current-menu-item a,
+        .main-navigation ul ul li a:hover,
+        .woocommerce-MyAccount-navigation ul li.is-active a,
+        .woocommerce-MyAccount-navigation ul li:hover a,
+        .woocommerce #respond input#submit.alt:hover,
+        .woocommerce a.button.alt:hover,
+        .woocommerce button.button.alt:hover,
+        .woocommerce input.button.alt:hover,
+        .woocommerce-cart table.cart .quantity button:hover,
+        .comments-area .form-submit .submit,
+        .error-homepage a,
+        .error-homepage a:hover,
+        .pagination .nav-links span.current,
+        .pagination .nav-links a:hover{
+            background: #dd0051;
         }
-        img[data-opt-src]:not([data-opt-lazy-loaded]) {
-            opacity: .75;
-            -webkit-filter: blur(8px);
-            -moz-filter: blur(8px);
-            -o-filter: blur(8px);
-            -ms-filter: blur(8px);
-            filter: blur(8px);
-            transform: scale(1.04);
-            animation: 0.1s ease-in;
-            -webkit-transform: translate3d(0, 0, 0);
+        .main-navigation ul li ul li:hover a,
+        .top-header .top-header-regin ul li a:hover,
+        .top-header-regin .count .fa.fa-shopping-basket:hover,
+        .top-header ul.store-quickinfo li a:hover,
+        ul.add-to-links li a:hover,
+        .main-widget-wrap .block-title span,
+        .block-title span,
+        .widget_storevilla_column_product_widget_area .column-wrap .col-wrap .block-title h2,
+        .widget_nav_menu ul li a:hover,
+        .widget_pages ul li a:hover,
+        .widget_recent_entries ul li a:hover,
+        .widget_meta ul li a:hover,
+        .widget_archive ul li a:hover,
+        .widget_categories ul li a:hover,
+        a.scrollup:hover,
+        h3.widget-title, h3.comment-reply-title,
+        .comments-area h2.comments-title,
+        .woocommerce .star-rating span::before,
+        .woocommerce a.remove,
+        .woocommerce nav.woocommerce-pagination ul li a,
+        .woocommerce nav.woocommerce-pagination ul li span,
+        .woocommerce-tabs.wc-tabs-wrapper h2,
+        .woocommerce .woocommerce-tabs p.stars a,
+        .single-product .compare.button:hover,
+        .single-product .entry-summary .yith-wcwl-add-to-wishlist a:hover,
+        td a,
+        .woocommerce-MyAccount-navigation ul li a,
+        .woocommerce-MyAccount-content a,
+        .woocommerce a.remove,
+        table.wishlist_table .product-name a:hover,
+        table.wishlist_table .product-name a.button:hover,
+        .storevilla-blog h3 a:hover,
+        .storevilla-blog .sv-post-content .category-name span a:hover,
+        .storevilla-blog .sv-post-foot a:hover,
+        .storevilla-blog .sv-post-content a.sv-btn-countinuereading:hover,
+        .blog-meta li a:hover,
+        .post-navigation .nav-links .nav-previous a:hover,
+        .post-navigation .nav-links .nav-next a:hover,
+        .widget_recent_comments ul li .comment-author-link a,
+        .top-header .top-navigation ul li a:hover{
+            color: #dd0051;
         }
-
-    </style>
-    <script type="application/javascript">
-        document.documentElement.className += " optimole_has_js";
-        (function(w, d){
-            var b = d.getElementsByTagName("head")[0];
-            var s = d.createElement("script");
-            var v = ("IntersectionObserver" in w && "isIntersecting" in w.IntersectionObserverEntry.prototype) ? "_no_poly" : "";
-            s.async = true;
-            s.src = "https://d5jmkjjpb7yfg.cloudfront.net/v2/latest/optimole_lib" + v  + ".min.js";
-            b.appendChild(s);
-            w.optimoleData = {
-                lazyloadOnly: "optimole-lazy-only",
-                backgroundReplaceClasses: [],
-                watchClasses: [],
-                backgroundLazySelectors: ".elementor-section[data-settings*=\"background_background\"], .elementor-section > .elementor-background-overlay, .wp-block-cover[style*=\"background-image\"]",
-                network_optimizations: false,
-                ignoreDpr: false,
-                quality: 90
+        .product-button-wrap a.button,
+        .product-button-wrap a.added_to_cart,
+        .widget_storevilla_promo_pages_area .promo-area a:hover button,
+        .widget_storevilla_blog_widget_area .blog-preview a.blog-preview-btn:hover,
+        .widget_storevilla_blog_widget_area .large-blog-preview a.blog-preview-btn:hover,
+        .widget_storevilla_contact_info_area ul li span:hover,
+        .yith-woocompare-widget a.clear-all:hover,
+        .yith-woocompare-widget .compare.button,
+        .woocommerce nav.woocommerce-pagination ul,
+        .woocommerce nav.woocommerce-pagination ul li,
+        .widget_storevilla_cat_with_product_widget_area .block-title-desc a.view-bnt:hover,
+        .product-button-wrap a,
+        .woocommerce #respond input#submit,
+        .woocommerce a.button,
+        .woocommerce button.button,
+        .woocommerce input.button,
+        .woocommerce div.product form.cart div.quantity,
+        .woocommerce-MyAccount-navigation ul li a,
+        .woocommerce-MyAccount-content,
+        .woocommerce .woocommerce-message,
+        .pagination .nav-links span.current,
+        .pagination .nav-links a:hover{
+            border-color: #dd0051;
+        }
+        .woocommerce div.product .woocommerce-tabs .panel.entry-content.wc-tab{
+            border-top-color: #dd0051;
+        }
+        .item-img .new-label.new-top-left:before{
+            border-color: transparent transparent transparent #dd0051;
+        }
+        @media (max-width: 768px){
+            .main-navigation ul li a{
+                color: #dd0051 !important;
             }
+        }
+	</style>
+	<link rel='stylesheet' id='storevilla-responsive-css'  href='https://demo.accesspressthemes.com/storevilla/wp-content/themes/storevilla/assets/css/responsive.css?ver=5.5.3' type='text/css' media='all' />
+	<script type='text/javascript' src='https://demo.accesspressthemes.com/storevilla/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+	<script type='text/javascript' src='https://demo.accesspressthemes.com/storevilla/wp-content/plugins/ap-demos-buttons/assets//scripts.js?ver=5.5.3' id='ap-demos-buttons-js'></script>
+	<link rel="https://api.w.org/" href="https://demo.accesspressthemes.com/storevilla/wp-json/" /><link rel="alternate" type="application/json" href="https://demo.accesspressthemes.com/storevilla/wp-json/wp/v2/pages/102" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.accesspressthemes.com/storevilla/xmlrpc.php?rsd" />
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://demo.accesspressthemes.com/storevilla/wp-includes/wlwmanifest.xml" />
+	<meta name="generator" content="WordPress 5.5.3" />
+	<meta name="generator" content="WooCommerce 4.3.3" />
+	<link rel="canonical" href="https://demo.accesspressthemes.com/storevilla/" />
+	<link rel='shortlink' href='https://demo.accesspressthemes.com/storevilla/' />
+	<link rel="alternate" type="application/json+oembed" href="https://demo.accesspressthemes.com/storevilla/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.accesspressthemes.com%2Fstorevilla%2F" />
+	<link rel="alternate" type="text/xml+oembed" href="https://demo.accesspressthemes.com/storevilla/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.accesspressthemes.com%2Fstorevilla%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style id="storevilla-custom-header-styles" type="text/css">
+        .site-title,
+        .site-description {
+            position: absolute;
+            clip: rect(1px, 1px, 1px, 1px);
+        }
+	</style>
+	<link rel="icon" href="https://demo.accesspressthemes.com/storevilla/wp-content/uploads/2016/04/cropped-2016-04-27-150x150.png" sizes="32x32" />
+	<link rel="icon" href="https://demo.accesspressthemes.com/storevilla/wp-content/uploads/2016/04/cropped-2016-04-27-300x300.png" sizes="192x192" />
+	<link rel="apple-touch-icon" href="https://demo.accesspressthemes.com/storevilla/wp-content/uploads/2016/04/cropped-2016-04-27-180x180.png" />
+	<meta name="msapplication-TileImage" content="https://demo.accesspressthemes.com/storevilla/wp-content/uploads/2016/04/cropped-2016-04-27-300x300.png" />
+	<style type="text/css" id="wp-custom-css">
+        .single-product .yith-wcwl-add-to-wishlist a {
+            color: #000;
+            margin: 0 10px 0 0;
+            position: relative;
+        }		</style>
+</head>
 
-        }(window, document));
-
-        document.addEventListener( "DOMContentLoaded", function() { document.body.className = document.body.className.replace("optimole-no-script",""); } );
-    </script></head>
-<body class="home blog woocommerce-no-js woocommerce-active optimole-no-script">
+<body class="home page-template page-template-template-home page-template-template-home-php page page-id-102 wp-custom-logo wp-embed-responsive theme-storevilla woocommerce-no-js rightsidebar fulllayout columns-3">
+<div id="page" class="hfeed site">

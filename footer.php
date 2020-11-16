@@ -82,4 +82,3 @@
 	</footer>
 	<!-- Footer end -->
 
-<!--chini daram git yad migiram-->
